@@ -7,5 +7,4 @@ pypresence
 pyskein
 requests
 rich
-skein
 web3
